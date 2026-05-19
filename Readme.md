@@ -19,7 +19,7 @@ Durante a prática foram trabalhados conceitos como:
 
 ---
 
-## ⏳ Próximos Laboratórios
+##  Próximos Laboratórios
 
 - LAB 2 — Em desenvolvimento
 - LAB 3 — Em desenvolvimento
