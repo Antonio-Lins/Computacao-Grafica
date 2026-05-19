@@ -6,7 +6,7 @@ Autor: **Antonio Lins**
 
 ---
 
-## 🧪 LAB 1 — Exibição de Pixel na Tela
+## LAB 1 — Exibição de Pixel na Tela
 
 No primeiro laboratório foi desenvolvido um programa em **Python** utilizando a biblioteca **Pygame**, com o objetivo de realizar a exibição de um pixel na tela a partir da conversão de coordenadas.
 
