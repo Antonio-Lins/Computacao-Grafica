@@ -16,7 +16,7 @@ ymax = float(input("ymax: "))
 
 x_world = float(input("Coordenada x do ponto: "))
 y_world = float(input("Coordenada y do ponto: "))
-
+ 
 # mundo - NDC (0 a 1)
 def user_to_ndc_01(x, y):
     ndcx = (x - xmin) / (xmax - xmin)
