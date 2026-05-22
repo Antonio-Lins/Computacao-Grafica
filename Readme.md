@@ -3,7 +3,7 @@
 Repositório criado para armazenar os laboratórios desenvolvidos na disciplina de **Computação Gráfica**, contendo práticas realizadas em sala de aula utilizando conceitos fundamentais da área.
 
 Autor: **Antonio Lins**
-
+ 
 ---
 
 ## LAB 1 — Exibição de Pixel na Tela
