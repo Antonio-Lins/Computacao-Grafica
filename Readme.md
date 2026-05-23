@@ -4,7 +4,7 @@ Repositório criado para armazenar os laboratórios desenvolvidos na disciplina 
 
 Autor: **Antonio Lins**
  
----
+--- 
 
 ## LAB 1 — Exibição de Pixel na Tela
 
